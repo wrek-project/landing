@@ -12,9 +12,9 @@ export default function About() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="text-4xl font-bold mb-6">About FunTech</h2>
+          <h2 className="text-4xl font-bold mb-6">About Wrek</h2>
           <p className="text-xl text-gray-600 mb-8">
-            At FunTech, we believe that technology should bring more joy and excitement to people's lives. Our team of creative engineers and designers work tirelessly to develop innovative products that put a smile on your face.
+            At Wrek, we believe that technology should bring more joy and excitement to people's lives. Our team of creative engineers and designers work tirelessly to develop innovative products that put a smile on your face.
           </p>
           <p className="text-xl text-gray-600">
             From AI companions to revolutionary gaming gear, we're on a mission to make the world a more fun place, one product at a time.
