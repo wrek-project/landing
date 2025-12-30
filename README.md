@@ -1,30 +1,8 @@
 # Wrek - Creative Development Agency
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8e20773-091a-4303-9e1c-4f0dba9780d0/deploy-status)](https://app.netlify.com/projects/wrek/deploys)
+
 A modern, accessible landing page for Wrek, a creative development agency building apps that make life easier, better, fun, and productive.
-
-## Features
-
-- **Accessible Design** - Skip links, semantic HTML, ARIA labels for screen readers
-- **Responsive Layout** - Mobile-first design that works across all devices
-- **Custom Cursor** - Interactive cursor dot animation
-- **Reduced Motion Support** - Respects user's motion preferences
-- **SEO Optimized** - Open Graph tags, Twitter Card meta tags, canonical URLs
-- **Fast Loading** - Optimized CSS and deferred JavaScript
-
-## Tech Stack
-
-- **HTML5** - Semantic markup
-- **CSS3** - Modern styling with CSS variables
-- **JavaScript** - Interactive features
-- **Google Fonts** - Space Grotesk and Syne typefaces
-
-## Sections
-
-- **Header** - Branding with logo
-- **Hero** - Main headline and call-to-action
-- **Laboratory** - Showcase of experiments/projects
-- **Team** - Team member profiles
-- **Footer** - Copyright and contact information
 
 ## Getting Started
 
@@ -43,19 +21,6 @@ landing/
 │   └── script.js   # Interactive features
 └── README.md       # This file
 ```
-
-## Accessibility
-
-This project follows WCAG guidelines:
-- Keyboard navigation support via skip link
-- Semantic HTML structure
-- ARIA labels on sections
-- Reduced motion media query support
-- High contrast text colors
-
-## Browser Support
-
-Works on all modern browsers (Chrome, Firefox, Safari, Edge).
 
 ## Contact
 
